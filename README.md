@@ -2,9 +2,9 @@ An AI-powered web application designed to assist visually impaired individuals. 
 
 **Features
 **
-Scene Analysis: Generates a detailed description of the uploaded image.
-Text Extraction: Uses Optical Character Recognition (OCR) to extract text from images.
-Voice Narration: Converts text and scene descriptions into speech.
+Image Analysis: Generates a detailed description of the uploaded image.
+Text reader: Uses Optical Character Recognition (OCR) to extract text from images.
+Speak : Converts text and scene descriptions into speech.
 
 **Technologies Used
 **
